@@ -1,1 +1,1 @@
-# MarketingDataAnalysis
+# MarketingDataAnalysisのデータ保管場所
